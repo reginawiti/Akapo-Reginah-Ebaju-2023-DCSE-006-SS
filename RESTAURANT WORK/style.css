@@ -1,0 +1,14 @@
+
+table,th,td{
+    border:1px solid blue;
+    border-collapse:collapse;
+    /*size.style,color */ 
+}
+
+paragraph-1 {
+    color: blue;
+} 
+.paragraph-2 {
+    color: green;
+}
+
